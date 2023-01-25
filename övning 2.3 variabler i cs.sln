@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "övning 2.3 variabler i cs", "övning 2.3 variabler i cs\övning 2.3 variabler i cs.csproj", "{6E034FDE-CCFA-48C6-9681-538D7976219B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E034FDE-CCFA-48C6-9681-538D7976219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E034FDE-CCFA-48C6-9681-538D7976219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E034FDE-CCFA-48C6-9681-538D7976219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E034FDE-CCFA-48C6-9681-538D7976219B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34D53F2-CB8A-47ED-AFDD-E644ED8CAD9C}
+	EndGlobalSection
+EndGlobal
